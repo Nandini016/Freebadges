@@ -1,0 +1,3 @@
+class Hello{
+Static System.out.println("Hello");
+}
